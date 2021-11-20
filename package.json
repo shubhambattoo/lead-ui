@@ -1,5 +1,8 @@
 {
-  "name": "lead-ui",
+  "name": "@shubhambattoo/lead-ui",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/shubhambattoo"
+  },
   "version": "0.0.1",
   "description": "A basic template for creating react component library.",
   "main": "dist/cjs/index.js",
