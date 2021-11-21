@@ -16,6 +16,8 @@
     "outDir": "dist",
     "moduleResolution": "node",
     "allowSyntheticDefaultImports": true,
-    "emitDeclarationOnly": true
-  }
+    "emitDeclarationOnly": true,
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "dist"]
 }
